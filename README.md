@@ -1,4 +1,4 @@
-# Python for Absolute Beginners - Recording , Google Colab links
+# Python for Absolute Beginners - Recordings :
 
 
 
