@@ -1,6 +1,9 @@
 # Python for Absolute Beginners - Recordings :
-
-
+Our Beloved Instructors :
+1. [Fatima Malik](https://www.linkedin.com/in/fatima-malik99/)
+2. [Sana Raza](https://www.linkedin.com/in/sana-raza-engineer/)
+3. [Laiba Asif](https://www.linkedin.com/in/laiba-asif-8544a0277/)
+4. [Ubaid Ur Rehman](https://www.linkedin.com/in/iubaidrmn/)
 
 ## Week 1: Introduction to Python
 
